@@ -1,0 +1,15 @@
+body {
+  background-color: $color-green;
+  font-size: 1rem;
+}
+#root{
+  height: 100vh;
+  display: flex;
+ 
+}
+.container{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}

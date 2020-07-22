@@ -1,0 +1,17 @@
+.card-container{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: $color-green;
+  align-content: space-around;
+  justify-content: center;
+
+  // div:last-child{
+  //   border: 1px solid red;
+  // }
+}
+
+// .card-container div:nth-child(3n) {
+//   flex-basis: 100%;
+// }
