@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ada-react/static/css/main.c69b1962.chunk.css",
+    "main.js": "/ada-react/static/js/main.3a53bd9f.chunk.js",
+    "main.js.map": "/ada-react/static/js/main.3a53bd9f.chunk.js.map",
+    "runtime-main.js": "/ada-react/static/js/runtime-main.680ee914.js",
+    "runtime-main.js.map": "/ada-react/static/js/runtime-main.680ee914.js.map",
+    "static/js/2.b5f6da6a.chunk.js": "/ada-react/static/js/2.b5f6da6a.chunk.js",
+    "static/js/2.b5f6da6a.chunk.js.map": "/ada-react/static/js/2.b5f6da6a.chunk.js.map",
+    "index.html": "/ada-react/index.html",
+    "precache-manifest.0451af2200a96577673b1e1f562c6939.js": "/ada-react/precache-manifest.0451af2200a96577673b1e1f562c6939.js",
+    "service-worker.js": "/ada-react/service-worker.js",
+    "static/css/main.c69b1962.chunk.css.map": "/ada-react/static/css/main.c69b1962.chunk.css.map",
+    "static/js/2.b5f6da6a.chunk.js.LICENSE.txt": "/ada-react/static/js/2.b5f6da6a.chunk.js.LICENSE.txt",
+    "static/media/01.jpg": "/ada-react/static/media/01.8af3ced1.jpg",
+    "static/media/02.jpg": "/ada-react/static/media/02.4d39d9d8.jpg",
+    "static/media/03.jpg": "/ada-react/static/media/03.0f13be35.jpg",
+    "static/media/04.jpg": "/ada-react/static/media/04.6527d1c1.jpg",
+    "static/media/05.jpg": "/ada-react/static/media/05.383ca1f9.jpg",
+    "static/media/06.jpg": "/ada-react/static/media/06.b32e16ac.jpg",
+    "static/media/07.jpg": "/ada-react/static/media/07.12325b19.jpg",
+    "static/media/08.jpg": "/ada-react/static/media/08.d22712c7.jpg",
+    "static/media/09.jpg": "/ada-react/static/media/09.bd78f897.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.680ee914.js",
+    "static/js/2.b5f6da6a.chunk.js",
+    "static/css/main.c69b1962.chunk.css",
+    "static/js/main.3a53bd9f.chunk.js"
+  ]
+}
