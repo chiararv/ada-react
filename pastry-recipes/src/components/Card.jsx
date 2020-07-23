@@ -9,7 +9,7 @@ const Card = ({recipe}) => {
         <CardFront img={recipe.img} newRecipe={recipe.nuevo} noSugar={recipe.sinAzucar} />
         <CardBack title={recipe.nombre} score={recipe.puntuacion} difficulty={recipe.dificultad} time={recipe.tiempo}/>
       </div>
-    </div>
+    </div> 
   );
 }
  
